@@ -1,0 +1,2 @@
+from sections s
+join courses c on c.course_number = s.course_number

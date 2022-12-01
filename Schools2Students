@@ -1,0 +1,1 @@
+from students s join schools sch on sch.school_number = s.schoolid
